@@ -2,3 +2,4 @@ Hello GitHub!
 This is my second test file created on 02-April-2026.
 I am learning GitHub.
 This is my third line - I am practicing editing files on GitHub.
+This line is added from the new branch (test-branch-1).
